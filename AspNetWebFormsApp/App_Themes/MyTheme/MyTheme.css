@@ -1,0 +1,8 @@
+﻿* {
+    border: 2px solid red;
+}
+
+.myClass {
+    color: white ;
+    background-color: greenyellow !important;
+}
